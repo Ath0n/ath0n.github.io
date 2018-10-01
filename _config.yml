@@ -1,24 +1,24 @@
 # Basic
-title: bsmali4的小窝
-subtitle: 个人小窝
-description: 明明真的很帅~
+title: ath0n' blog
+subtitle: 我的个人博客
+description: 学习是一件很酷的事
 # 头像里面的标题
-avatarTitle: bsmali4
+avatarTitle: ath0n
 # 头像里面的描述
-avatarDesc: 网络安全 / 编程开发
-url: "http://www.codersec.net"
+avatarDesc: 网络安全爱好者
+url: "https://ath0n.github.io/"
 
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: bsmali4 
+    duoshuo: ath0n 
 
 # Social
 social:
     weibo: no 
-    github: bsmali4
+    github: Ath0n
     # twitter: 
-    mail: root@codersec.net
+    mail: 1345050708@qq.com
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 
@@ -50,10 +50,10 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 我的文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}
-    - {title: 我的邻居, description: archive, url: '/links'}  
+    - {title: 关于个人, description: about, url: '/about'}
+    - {title: 大佬们, description: archive, url: '/links'}  
     
 
 # Pagination
