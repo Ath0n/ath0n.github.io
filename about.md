@@ -14,4 +14,5 @@ title: 关于我
   walk with the master,(与大师同行,)
   see theough the master,(洞察大师,)
   become the master.(成为大师.)
+ <p>我的QQ:1345050708结识共同爱好的朋友
   
